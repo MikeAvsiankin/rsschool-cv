@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -53,6 +52,3 @@ alert( result );
 
 <h2 id="english"><strong>English</strong></h2>
 <p><strong>C1-C2</strong> Full Proficiency</p>
-
-  </body>
-</html>
